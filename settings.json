@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Worlds_Craft.aternos.me:49302",
+    "port": 49302,
     "version": "",
     "try-creative": false
   },
